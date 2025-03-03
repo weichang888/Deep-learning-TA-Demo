@@ -30,4 +30,4 @@ Deep-learning-TA-Demo/
 1. 下載整個專案：
    ```bash
    git clone https://github.com/weichang888/Deep-learning-TA-Demo.git
-   cd Deep-learning-TA-Demo
+  ``` 
