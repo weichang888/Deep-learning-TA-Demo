@@ -5,6 +5,7 @@
 
 # 將以下內容複製到你的 Makefile 中
 
+```makefile
 .PHONY: tree
 
 tree:
@@ -26,7 +27,6 @@ tree:
 	@echo "│   ├── forest_iris.png"
 	@echo "│   └── RandomForest(Ya).ipynb"
 	@echo "└── README.md"
-
 ---
 
 ### **1️⃣在本地執行**
